@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and artificial intilegence
 - 🌱 I’m currently learning  Data science
 - 💞️ I’m looking to collaborate on Data science
-- 📫 How to reach me Hari8897
+- 📫 How to reach me kanchuharigopikrishna@gmail.com
 
 <!---
 Hari8897/Hari8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
